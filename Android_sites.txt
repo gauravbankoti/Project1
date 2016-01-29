@@ -1,0 +1,12 @@
+djodjo.org
+http://www.vogella.com/tutorials/AndroidSQLite/article.html
+
+http://www.javatpoint.com/android-json-parsing-tutorial
+http://freeandroidsourcecodes.blogspot.in/2014/11/the-restaurant-app-free-android-source.html
+http://code.tutsplus.com/tutorials/android-sdk-build-a-mall-finder-app-mapview-location--mobile-9060
+
+
+
+http://www.lynda.com/Android-tutorials/Connecting-Android-Apps-RESTful-Web-Services/163757-6.html?seo_popover=true
+
+http://blog.strikeiron.com/bid/73189/Integrate-a-REST-API-into-Android-Application-in-less-than-15-minutes
